@@ -1,4 +1,4 @@
 <?php 
-	echo "dika budi ganteng";
-	echo "cetar membahana";
+	echo "dika budi jelek";
+	echo "suka pisangs";
  ?>
