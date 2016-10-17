@@ -1,0 +1,1 @@
+<?php echo 'ini file buatan budi'; ?>
