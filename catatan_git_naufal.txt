@@ -1,0 +1,22 @@
+//Frist configuration
+git config --globlal user.name "username"
+git config --globlal user.email "email"
+
+//command git
+clone  :: git clone link -> for download repo in github to your comp
+init   :: git init -> generate make git
+status :: git status -> check your status
+
+git pull origin master -> pull for update
+git add nama-file.php -> add file
+git commit -m 'checkpoint' -> make checkpoint
+git push origin master -> push to repo
+
+if Conflict
+	trouble maker -> fix problem
+
+
+git branch 
+create new brench(cabang)
+git checkout -b nama_cabang -> local (if on create new branch manual on your repo)
+git checkout nama_cabang 
