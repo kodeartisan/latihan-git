@@ -1,3 +1,3 @@
 <?php
-echo 'mari belajar';
+for e::echo 'mari belajar';
 ?>
