@@ -1,4 +1,4 @@
 <?php
 echo 'mari belajar';
-echo 'emon takut cangkul';
+echo 'blacklist ok';
 ?>
